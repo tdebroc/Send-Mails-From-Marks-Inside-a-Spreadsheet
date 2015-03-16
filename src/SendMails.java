@@ -26,7 +26,7 @@ public class SendMails {
 	//= Config
 	//=========================================================================
 	/* Key for the Google Spreadsheet containing marks.  */
-	final static String googleSpreadhseetKey = "1qRrKqLiJ2hC0nWxIDl10fK1Q_IDTrmqfh3epCgnBswM";
+	final static String googleSpreadhseetKey = "1JobjeymNWivpwTH1x2syL9pUill9kilF8Bx1ro19lnA";
 	/* Index of the line for Questions title. */
 	final static int QUESTION = 0;
 	/* Index of the line for bonus value. */
