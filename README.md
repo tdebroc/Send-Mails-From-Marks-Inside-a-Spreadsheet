@@ -15,7 +15,7 @@ Performances are not the aim of the project, I prefered readability, hence thing
 2. Fill the spreasheet with the marks.
 3. In the Java Project:
 Don't forget to provide a config.properties in a folder resources. It should be like this:
-  host=theSMTPHost
-  username=smtpUsername
+  host=theSMTPHost  
+  username=smtpUsername  
   password=thePassword
 4. InSendMails.java : Change the value of the google spreadhshet key.
